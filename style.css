@@ -59,7 +59,7 @@ button {
 }
 
 button:hover {
-  opacity: .8;
+  opacity: 0.8;
 }
 
 button:active {
@@ -137,5 +137,4 @@ header {
     margin: 0 auto;
     display: block;
   }
-
 }
